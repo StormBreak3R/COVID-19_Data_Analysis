@@ -28,7 +28,7 @@ dataset.plot.barh(stacked = True, figsize = (13, 8))
 ```
 > ##### Output
 > ![Overall](https://user-images.githubusercontent.com/89790414/143038194-4204e37a-76f1-409e-9367-17d7c7665c7d.PNG)
-> So  its clear here that Covid-19 had a messacre on the **Maharastra** state. **Maharastra** has the maximum number of Positive, Death, New positive cases. As the affected number is most thats why the cured cases are also the most over there in **Maharastra**. Kerala Has gone through a big disaster as well. States like Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, Andaman and Nicobar island, Ladakh are almost covid free. Covid-19 did get any advantages there.
+> So  its clear here that Covid-19 had a messacre on the **Maharastra** state. **Maharastra** has the maximum number of Positive, Death, New positive cases. As the affected number is most thats why the cured cases are also the most over there in **Maharastra**. Kerala Has gone through a big disaster as well. States like Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, Andaman and Nicobar island, Ladakh are almost covid free. Covid-19 didn't get any advantages there.
 # Finalize:
 > We have presented the entire visualization and analysis of Covid-19 in India. Also, you can see some subtle informations when you will go through the codes. Every features has been compared with other features so that it becomes easy to analyse the whole scenario. Thanks
 > ---
